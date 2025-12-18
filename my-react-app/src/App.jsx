@@ -51,7 +51,7 @@ function App(){
 
   
   return (
-    <div style={{padding: "20px"}}>
+    <div style={{padding: "20px", color: "blue"}}>
     <h2>React + Fastapi + Supabase</h2>
 
     <input type="text" 
